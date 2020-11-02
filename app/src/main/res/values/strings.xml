@@ -42,7 +42,7 @@
     <string name="newExperimentInputRate">Sensor rate (in Hz, 0 = as fast as possible)</string>
     <string name="newExperimentInputSensors">Active sensors</string>
 
-    <string name="newExperimentBluetooth">Add experiment for Bluetooth device</string>
+    <string name="newExperimentBluetooth"> </string>
     <string name="newExperimentBluetoothErrorTitle">Bluetooth scan error</string>
     <string name="newExperimentBluetoothLoadFromDevice">Load from device</string>
     <string name="newExperimentBluetoothLoadFromDeviceInfo">This device provides its own an existing experiment. Select "load from device" to open it.</string>
