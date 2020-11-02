@@ -1,0 +1,10 @@
+libraries/
+modules/
+caches/
+gradle.xml
+jarRepositories.xml
+misc.xml
+modules.xml
+physics.iml
+vcs.xml
+workspace.xml
