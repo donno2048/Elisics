@@ -99,17 +99,11 @@ Concept by:\n
     </string>
     <string name="creditsApache" translatable="false">
         <![CDATA[
-This product contains parts that were originally based on software from BEA. Copyright (c) 2000-2003, BEA Systems.<br />
+This product contains parts that were originally based on software from BEA. Copyright (c) BEA Systems.<br />
 <br />
-This product contains the Piccolo XML Parser for Java. Copyright (c) 2002 Yuval Oren.<br />
+This product contains parts of Piccolo vsdump eID Applet and zebra crossing. Copyright (c) Yuval Oren, Valek Filippov, Frank Cornelis and Sean Owen.<br />
 <br />
-This product contains the chunks_parse_cmds.tbl file from the vsdump program. Copyright (c) 2006-2007 Valek Filippov.<br />
-<br />
-This product contains parts of the eID Applet project. Copyright (c) 2009-2014 FedICT, e-Contract.be BVBA.<br />
-<br />
-The QR code scanner function uses zebra crossing. Copyright (c) 2004 ZXing.<br />
-<br />
-This product contains phyphox documents. Copyright 2007 (c) Sebastian Staacks.<br />
+This product contains phyphox documents. Copyright (c) Sebastian Staacks.<br />
 <br />
         ]]>
     </string>
