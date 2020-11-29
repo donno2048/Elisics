@@ -67,8 +67,8 @@
     <string name="experimentsPhyphoxOrgURL">https://github.com/donno2048/Elisics/issues/new</string>
     <string name="faqPhyphoxOrg">View the code</string>
     <string name="faqPhyphoxOrgURL">https://github.com/donno2048/Elisics</string>
-    <string name="remotePhyphoxOrg">Help</string>
-    <string name="remotePhyphoxOrgURL">http://donno2048.github.io/Elisics</string>
+    <string name="remotePhyphoxOrg">Help translating the app</string>
+    <string name="remotePhyphoxOrgURL">https://poeditor.com/join/project?hash=p51N19Dwjb</string>
     <string name="translationInfo">Languages</string>
     <string name="translationText">Elisics will use the first language available from your preferred languages list. To change your preferences, go to your Android \"settings\" below. To learn which languages are available and how you can help, select \"visit website\".</string>
     <string name="translationToSettings">Settings</string>
